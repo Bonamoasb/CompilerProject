@@ -1,9 +1,11 @@
 # CompilerProject
 **Intro**
+
 This project was created as a semester project for my "COSC 4316 - Compiler Design" course, taught by Dr. David Burris.
 I took this course during my final semester while attending Sam Houston State University back in the Spring of 2022.
 
 **About the Project**
+
 A lexical analyzer and semantic analyzer were written using table-driven problem solving techniques such as a Deterministic Finite State Automaton (DFSA) and a Push Down Automaton. 
 
 Created from this project are a token table, symbol table, quads, and an assembly file which can be ran using Linux to successfully run the designated program.
@@ -23,3 +25,7 @@ Some programming functionalities the compiler can recognize includes:
 - If-Else Statements
 - I/O Routines
 - User Comments
+
+**Extra Info**
+
+The "P1" and "P2" text files were simply two test cases. Each test case has a corresponding token table, symbol table, and quads text file, along with an assembly file.
