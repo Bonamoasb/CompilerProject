@@ -1,0 +1,16 @@
+Quads:
+---------------
+GET a ? ?
+GET b ? ?
+GET c ? ?
+GET Bob ? ?
+GET Jane ? ?
+Bob Jane + T1
+T1 10 - T2
+T2 2 / T3
+T3 4 * T4
+a T4 * T5
+b c + T6
+T5 T6 / T7
+ans T7 = T1
+PUT ans ? ?

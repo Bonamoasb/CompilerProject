@@ -1,0 +1,12 @@
+Quads:
+---------------
+GET X ? ?
+GET Y ? ?
+IF ? ? ?
+X Y >= T1
+THEN L1 L ?
+PUT X ? ?
+JL2: NOP
+ELSE L1 ? ?
+PUT Y ? ?
+L2: NOP

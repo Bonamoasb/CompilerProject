@@ -1,0 +1,20 @@
+CLASS P1 {
+VAR X, Y;
+
+/* Can't see me! */
+
+/* Test Case: Larger of two numbers with GET & PUT */
+GET X;
+GET Y;
+
+IF X >= Y THEN {
+
+   PUT X;
+
+} 
+ELSE {
+
+   PUT Y;
+
+}
+}

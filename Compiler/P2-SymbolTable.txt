@@ -1,0 +1,19 @@
+Token			Class			Value			Address			Segment
+----------------------------------------------------------------------------------------------------------------
+P2	 		$CLASS			0			0			CS
+a			<var>			0			0			DS
+b			<var>			0			2			DS
+c			<var>			0			4			DS
+Bob			<var>			0			6			DS
+Jane			<var>			0			8			DS
+ans			<var>			0			10			DS
+10			$NumLit			10			12			DS
+2			$NumLit			2			14			DS
+4			$NumLit			4			16			DS
+T1			<var>			0			18			DS
+T2			<var>			0			20			DS
+T3			<var>			0			22			DS
+T4			<var>			0			24			DS
+T5			<var>			0			26			DS
+T6			<var>			0			28			DS
+T7			<var>			0			30			DS
