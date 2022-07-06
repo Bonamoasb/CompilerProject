@@ -1,7 +1,7 @@
 # CompilerProject
 **Intro**
 
-This project was created as a semester project for my "COSC 4316 - Compiler Design" course, taught by Dr. David Burris.
+This project was created as a semester project for my "COSC 4316 - Compiler Design" course, which was taught by Dr. David Burris.
 I took this course during my final semester while attending Sam Houston State University back in the Spring of 2022.
 
 **About the Project**
